@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>43793824-05d9-42d8-93af-5ef8be894c3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cat__menu-left__pin-button > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='menu_style']/nav/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.cat__menu-left__pin-button > div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e53b87b3-5137-441b-9bf1-e7d2475b4f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_style&quot;)/nav[@class=&quot;cat__menu-left cat__menu-left__item--active&quot;]/div[@class=&quot;cat__menu-left__lock cat__menu-left__action--menu-toggle&quot;]/div[@class=&quot;cat__menu-left__pin-button&quot;]/div[1]</value>
+      <webElementGuid>c1d97447-53df-416c-89a8-d37027c6bc26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='menu_style']/nav/div/div/div</value>
+      <webElementGuid>8c808b97-989b-42af-ab70-1c81edbd2397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div/div</value>
+      <webElementGuid>e0bb077d-5ffa-4b17-9f7f-671be9a2ba2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

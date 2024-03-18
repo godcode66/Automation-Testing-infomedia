@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daftar Riwayat Hidup_cat__menu-left__pi_f192b1</name>
+   <tag></tag>
+   <elementGuidId>b1e12260-eebe-4ba2-8f5c-eb9a664b181a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cat__menu-left__pin-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='menu_style']/nav/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.cat__menu-left__pin-button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51321df7-2582-4a17-9154-13a771de933a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cat__menu-left__pin-button</value>
+      <webElementGuid>4edce958-709f-4fc4-b1e1-76fa0f887d89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_style&quot;)/nav[@class=&quot;cat__menu-left&quot;]/div[@class=&quot;cat__menu-left__lock cat__menu-left__action--menu-toggle&quot;]/div[@class=&quot;cat__menu-left__pin-button&quot;]</value>
+      <webElementGuid>1abd2676-4797-41f5-b32f-d0e857146899</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='menu_style']/nav/div/div</value>
+      <webElementGuid>32821d45-0221-4915-aa2c-591748f53d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div</value>
+      <webElementGuid>60cf2a89-abf8-4766-8cfe-91e9ab982a76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
